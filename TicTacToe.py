@@ -135,5 +135,4 @@ def tictactoe():
                 #print(f"Occupied: {occupied} Avail: {avail}")
                 print(f"Sorry, try some other block in {avail}\n")
                 
-                
-                
+  
